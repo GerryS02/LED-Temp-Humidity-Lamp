@@ -1,4 +1,4 @@
-# main.py
+# main.py - contain the main loop logic that controls the behavior of the program
 
 import time
 from setup import *  # Import everything from setup.py
