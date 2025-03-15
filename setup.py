@@ -1,4 +1,4 @@
-# setup.py
+# setup.py - set up all the hardware components (potentiometer, buttons, LCD, sensors) and initialize the necessary variables.
 from machine import Pin, I2C
 import i2c_lcd
 import time
