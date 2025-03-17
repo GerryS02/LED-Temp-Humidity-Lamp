@@ -45,5 +45,6 @@ This project is an LED color-changing lamp that responds to changes in temperatu
 3. Power on the system and use the slide switch to toggle between Edit and Sense modes.
 
 <hr>
-![Image Description](https://github.com/GerryS02/LED-Temp-Humidity-Lamp/raw/98358cb43133d7791f4f5519a350980403e26c3e/Screenshot%202025-03-17%20122851.png)
+![Image Description](https://github.com/GerryS02/LED-Temp-Humidity-Lamp/blob/db9c107695ff563e1a456d96acce91e59badf543/Screenshot%202025-03-17%20122851.png)
+
 
