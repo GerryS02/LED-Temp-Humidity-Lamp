@@ -44,4 +44,5 @@ This project is an LED color-changing lamp that responds to changes in temperatu
 2. Load the project code onto the Raspberry Pi.
 3. Power on the system and use the slide switch to toggle between Edit and Sense modes.
 
-
+<hr>
+![Image](https://github.com/user-attachments/assets/aecc18ac-a6b7-416c-ac0c-d433f109330b) 
