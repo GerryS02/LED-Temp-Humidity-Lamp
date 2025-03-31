@@ -45,4 +45,4 @@ This project is an LED color-changing lamp that responds to changes in temperatu
 3. Power on the system and use the slide switch to toggle between Edit and Sense modes.
 
 <hr>
-![Image](https://github.com/user-attachments/assets/77f2b0f3-8444-45f7-bc69-df198fefc8e5)
+![Image](https://drive.google.com/uc?export=view&id=1R3F06hCLkBpxUMbeK80f6XTzYgA1xOOi) 
